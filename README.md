@@ -1,6 +1,6 @@
 # jasmineea.github.io
 
-This is a uncompleted page. It was first attempt at commiting a project I was working on. So far, so good! 
+This is a uncompleted page. It was my first attempt at use Github and commiting a project I was working on. So far, so good! 
 I will complete the project and commit the new changes soon....
 
 
